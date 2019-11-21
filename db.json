@@ -2,7 +2,7 @@
   "dashboard": {
     "smNumber": "8000254386", 
     "loggedIn": true,
-    "isWarmState": false,
+    "isWarmState": true,
     "hasSQA": true,
     "hasEmail": true  
   }
